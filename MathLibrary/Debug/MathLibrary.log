@@ -1,0 +1,22 @@
+﻿  MathLibrary.cpp
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(31,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(34,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(104,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(106,81): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(114,90): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(121,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(128,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(135,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(142,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(152,71): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(161,79): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(157,25): warning C4101: 't': unreferenced local variable
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(172,79): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(177,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(179,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(180,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(194,64): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(194,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(197,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\personal\repos\StaticMath\MathLibrary\MathLibrary.cpp(200,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  MathLibrary.vcxproj -> E:\personal\repos\StaticMath\Debug\MathLibrary.lib
